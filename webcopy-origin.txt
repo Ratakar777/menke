@@ -1,0 +1,124 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=660dda4eb8dfcf5ab3e1b615
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://www.menke.fun/
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\index.htm
+Content Type: text/html
+
+Uri: https://www.menke.fun/css/menke-55a4fb.webflow.css
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\css\menke-55a4fb.webflow.css
+Content Type: text/css
+
+Uri: https://www.menke.fun/css/normalize.css
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\css\normalize.css
+Content Type: text/css
+
+Uri: https://www.menke.fun/css/webflow.css
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\css\webflow.css
+Content Type: text/css
+
+Uri: https://www.menke.fun/fonts/Aeonik-Bold.otf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Aeonik-Bold.otf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Aeonik-BoldItalic.otf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Aeonik-BoldItalic.otf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Aeonik-Medium.otf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Aeonik-Medium.otf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Aeonik-MediumItalic.otf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Aeonik-MediumItalic.otf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Aeonik-Regular.otf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Aeonik-Regular.otf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Aeonik-RegularItalic.otf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Aeonik-RegularItalic.otf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Neue-Machina-Light.ttf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Neue-Machina-Light.ttf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Neue-Machina-Regular.ttf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Neue-Machina-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/fonts/Neue-Machina-Ultrabold.ttf
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\fonts\Neue-Machina-Ultrabold.ttf
+Content Type: font/ttf
+
+Uri: https://www.menke.fun/images/Men-1.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Men-1.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Men-p-500.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Men-p-500.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Men.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Men.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Menkey-1.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Menkey-1.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Menkey-design-1.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Menkey-design-1.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Menkey-design.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Menkey-design.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Menkey-logo.svg-1.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Menkey-logo.svg-1.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Menkey-logo.svg.png
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Menkey-logo.svg.png
+Content Type: image/png
+
+Uri: https://www.menke.fun/images/Pat-Fusty-Hero-Icon.webp
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\Pat-Fusty-Hero-Icon.webp
+Content Type: image/webp
+
+Uri: https://www.menke.fun/images/radium-green.svg
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\radium-green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.menke.fun/images/svgexport-11.svg
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\svgexport-11.svg
+Content Type: image/svg+xml
+
+Uri: https://www.menke.fun/images/svgexport-14.svg
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\svgexport-14.svg
+Content Type: image/svg+xml
+
+Uri: https://www.menke.fun/images/svgexport-16.svg
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\svgexport-16.svg
+Content Type: image/svg+xml
+
+Uri: https://www.menke.fun/images/svgexport-19.svg
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\svgexport-19.svg
+Content Type: image/svg+xml
+
+Uri: https://www.menke.fun/images/svgexport-8.svg
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\images\svgexport-8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.menke.fun/js/webflow.js
+File Name: C:\work\Downloaded Web Sites\20.01\menke\www.menke.fun\js\webflow.js
+Content Type: application/javascript
+
